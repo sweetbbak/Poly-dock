@@ -6,7 +6,7 @@ displays window names on polybar &amp; lets you minimize, maximize &amp; resize 
 ```
 [module/polywins]
 type = custom/script
-exec = ~/bin/win-launch/polywins.sh 2>/dev/null
+exec = ~/bin/polywins.sh 2>/dev/null
 format = <label>
 label = %output%
 label-padding = 1
