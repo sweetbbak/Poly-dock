@@ -12,3 +12,4 @@ label = %output%
 label-padding = 1
 tail = true
 ```
+![pic of OS with polybar](pink-rice.png?raw=true "lol")
